@@ -1,0 +1,8 @@
+{
+  "python_version": "3.11",
+  "source": { "kind": "uv", "root": "." },
+  "graphs": {
+    "trading_agents": "./langgraph_entry.py:graph"
+  },
+  "env": ".env"
+}
